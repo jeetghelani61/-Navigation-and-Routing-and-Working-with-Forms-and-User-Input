@@ -1,4 +1,4 @@
-import 'package:flutter/foundation.dart';
+import 'package:flutter/material.dart';
 
 class CartProvider extends ChangeNotifier {
   double total = 0;
